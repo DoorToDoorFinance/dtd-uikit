@@ -5,7 +5,7 @@ export const baseColors = {
   primary: "#742fb5",
   primaryBright: "#742fb5",
   primaryDark: "#742fb5",
-  secondary: "#7645D9",
+  secondary: "#630404",
   success: "#31D0AA",
   warning: "#FFB237",
 };
